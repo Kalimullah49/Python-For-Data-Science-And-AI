@@ -1,0 +1,1 @@
+# day 3 ke pratic ke ha ur k6u ni kia
