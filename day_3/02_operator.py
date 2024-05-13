@@ -10,3 +10,10 @@ print(2**6) #Exponential 2 is multiply 6 thime
 
 print((2*6)*3**2/2*3/3+6-4)
 print(2 + 3) #space can,t matter i operator
+
+a = [1,2,3]
+b = [4,5,6]
+
+print(a)
+print(b)
+print(a+b)
